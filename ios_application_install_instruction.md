@@ -4,49 +4,49 @@
 1. Откройте сайт [tinkoff.ru](https://tinkoff.ru/) на смартфоне в браузере **Safari**
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_1.webp">
+  <img src="./images/ios_1.webp">
 </p>
 
 2. Нажмите в нижнем меню браузера центральную иконку **«Поделиться»**
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_2.webp">
+  <img src="./images/ios_2.webp">
 </p>
 
 3. Выберите На экран **«Домой»**
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_3.webp">
+  <img src="./images/ios_3.webp">
 </p>
 
 4. **Иконка Тинькофф появится на рабочем столе.** Нажмите на нее, чтобы попасть в личный кабинет
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_4.webp">
+  <img src="./images/ios_4.webp">
 </p>
 
 5. **Войдите в личный кабинет**
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_5.webp">
+  <img src="./images/ios_5.webp">
 </p>
 
 6. Нажмите на кнопку **«Включить»**, чтобы вовремя узнавать о всех поступлениях и финансовых операциях
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_6.webp">
+  <img src="./images/ios_6.webp">
 </p>
 
 7. **Разрешите отправку уведомлений**
     Сразу после подтверждения будут приходить бесплатные уведомления. Уведомления работают с версии iOS 16.4 и выше
 
 <p align="center">
-  <img width="400" height="250" src="./images/ios_7.webp">
+  <img src="./images/ios_7.webp">
 </p>
 
 8. **Готово!** Вы можете управлять своими финансами как обычно
 <p align="center">
-  <img width="400" height="250" src="./images/ios_8.webp">
+  <img src="./images/ios_8.webp">
 </p>
 
 ___

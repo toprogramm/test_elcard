@@ -8,26 +8,26 @@
 Или перейдите на [tinkoff.ru](https://tinkoff.ru/)  и нажмите на кнопку **Скачать приложение Тинькофф банк**
 
 <p align="center">
-  <img src="./images/android_1_1.jpg" width="300" height="300" 
-</p>
+  <img  width="350" height="300" src="./images/android_1_1.jpg">
+  </p>
 
 2. В случае уведомления «Файл может быть опасным» нажмите «Все равно скачать». Гарантируем безопасность файлов
 
 <p align="center">
-  <img width="400" height="250" src="./images/android_2.webp">
+  <img src="./images/android_2.webp">
 </p>
 
 
 2. Если смартфон запросит разрешение, дайте его в настройках: Разрешить из этого источника → Установить
 
 <p align="center">
-  <img width="400" height="250" src="./images/android_3.webp">
+  <img src="./images/android_3.webp">
 </p>
 
 3. После скачивания найдите файл в загрузках и начните установку: приложение появится на рабочем столе
 
 <p align="center">
-  <img width="400" height="250" src="./images/android_4.webp">
+  <img src="./images/android_4.webp">
 </p>
 
 ___
